@@ -12,3 +12,8 @@ dependencies = [
     "numpy>=2.5.3",
     "pandas>=3.0.5",
 ]
+
+[dependency-groups]
+dev = [
+    "nbstripout>=0.9.1",
+]
